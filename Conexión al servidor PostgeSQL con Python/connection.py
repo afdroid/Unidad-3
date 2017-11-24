@@ -3,7 +3,7 @@ Autor: Alfredo
 """
 
 #Importamos la librería psycopg2, encargada de adaptar el lenguaje de Python a PostgreSQL
-import psycopg2}
+import psycopg2
 #Importamos el método config del modulo config
 from config import config
 
