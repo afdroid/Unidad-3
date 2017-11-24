@@ -1,5 +1,6 @@
 """
 Author: Alfredo
+Allows establish recursive tree datastructure
 """
 
 

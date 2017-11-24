@@ -1,8 +1,9 @@
 """
 Author: Alfredo
+Allows to establish a chain of receiver objects through a request made by a remote object.
 """
 
-#
+
 class Handler: #Abstract handler
     """Abstract handler"""
     def __init__(self, successor):

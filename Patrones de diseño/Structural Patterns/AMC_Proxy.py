@@ -1,5 +1,6 @@
 """
 Author: Alfredo
+Allow that the client interacting with a Proxy and the Proxy responsible for creating the resource intensive objects
 """
 
 import time

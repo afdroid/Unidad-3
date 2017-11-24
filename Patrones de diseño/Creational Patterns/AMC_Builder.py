@@ -1,5 +1,6 @@
 """
 Author: Alfredo
+Allows delete a execive number of contructors
 """
 
 

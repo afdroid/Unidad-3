@@ -1,5 +1,6 @@
 """
 Author: Alfredo
+Allows create new operations for various elements of an exiting class herarchy
 """
 
 

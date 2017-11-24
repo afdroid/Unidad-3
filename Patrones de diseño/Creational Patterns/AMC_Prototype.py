@@ -1,5 +1,6 @@
 """
 Author: Alfredo
+Allow create many identical objects clonning only one
 """
 
 import copy

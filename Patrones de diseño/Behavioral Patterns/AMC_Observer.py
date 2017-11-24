@@ -1,5 +1,8 @@
 """
 Author: Alfredo
+Show the followind data:
+Core temperatures: Reactors at a power plant 
+Registred observers: Notifications 
 """
 
 

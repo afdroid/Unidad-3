@@ -1,5 +1,6 @@
 """
 Author: Alfredo
+Allow establish only one instance. A global in a object-oriented way
 """
 
 

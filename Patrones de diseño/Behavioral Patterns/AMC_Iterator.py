@@ -1,8 +1,9 @@
 """
 Author: Alfredo
+Iterator based on a built-in Ptython iterator: zip()
+German counting words only up to a certain point
 """
 
-#
 def count_to(count):
     """Our iterator implementation"""
 

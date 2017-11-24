@@ -1,5 +1,6 @@
 """
 Author: Alfredo
+Performs the adaptation of two interfaces; Translation
 """
 
 

@@ -1,5 +1,6 @@
 """
 Author: Alfredo
+Allows separate the abstraction into two different class hierarchies
 """
 
 

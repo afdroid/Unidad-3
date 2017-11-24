@@ -1,5 +1,6 @@
 """
 Author: Alfredo
+Abstract Strategy Class with a default set of behavior y concrete Strategy Classes with new behaviors
 """
 
 

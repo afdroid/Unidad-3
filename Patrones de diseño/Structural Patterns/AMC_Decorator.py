@@ -1,5 +1,6 @@
 """
 Author: Alfredo
+Allows new features to an exiting object whit dynamic changes and not using subclasing
 """
 
 from functools import wraps

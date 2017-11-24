@@ -1,5 +1,6 @@
 """
 Author: Alfredo
+Allows to user expectation yields multiple realted objects
 """
 
 
