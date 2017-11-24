@@ -9,7 +9,7 @@ from configparser import ConfigParser
 def config(filename='database.ini', section='postgresql'):
     # Creamos el analizador
     parser = ConfigParser()
-    # Leemos la configuracion del archivo
+    # Leemos la configuración del archivo
     parser.read(filename)
 
     #Creamos un diccionario para la base de datos
