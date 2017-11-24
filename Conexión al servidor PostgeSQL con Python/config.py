@@ -2,10 +2,10 @@
 Autor: Alfredo
 """
 
-#Importamos la libreria ConfigParser para verificar la estructura de la conexion
+#Importamos la librería ConfigParser para verificar la estructura de la conexión
 from configparser import ConfigParser
 
-#Creamos una funcion, donde cargamos el archivo con los parametros de conexion y seleccionamos la seccion de postgreSQL
+#Creamos una función, donde cargamos el archivo con los parametros de conexión y seleccionamos la seccion de postgreSQL
 def config(filename='database.ini', section='postgresql'):
     # Creamos el analizador
     parser = ConfigParser()
